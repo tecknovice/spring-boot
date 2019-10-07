@@ -1,6 +1,5 @@
 /applicationContext.xml
 /beanLifeCycle-applicationContext.xml
-/beanScope-applicationContext.out.xml
 /beanScope-applicationContext.xml
 /sport.properties
 /springdemo/
