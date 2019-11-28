@@ -16,7 +16,11 @@ Trong menu bên trái, chọn Official Account, sau đó chọn Official Account
 ```
 git clone https://github.com/tecknovice/spring-boot
 cd chatbot
-./mvnw spring-boot:run
 ```
+* EclipseIDE
+  * Import project
+  * Thêm Zalo SDK vào build jar
+     ```https://github.com/zaloplatform/zalo-java-sdk```
+  * Chạy thông qua IDE
 # Vào https://oa.zalo.me/manage/profile lấy QR code hoặc link đến OA
 # Chat
