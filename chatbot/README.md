@@ -22,5 +22,6 @@ cd chatbot
   * Thêm Zalo SDK vào build jar
      ```https://github.com/zaloplatform/zalo-java-sdk```
   * Chạy thông qua IDE
+  * Update access token trong code
 # Vào https://oa.zalo.me/manage/profile lấy QR code hoặc link đến OA
 # Chat
